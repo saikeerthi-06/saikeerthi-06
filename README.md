@@ -3,7 +3,7 @@
 
 - 🌱 I’m passionate about Java and currently exploring the MERN Stack and Data Structures to build impactful applications.
 
-- 👨‍💻 All of my projects are available at [https://keerthi-creative-folio.lovable.app/](https://keerthi-creative-folio.lovable.app/)
+- 👨‍💻 All of my projects are available at [https://saikeerthi18-creative-folio.lovable.app/](https://saikeerthi18-creative-folio.lovable.app)
 
 - 📫 How to reach me **saikeerthij92@gmail.com**
 
