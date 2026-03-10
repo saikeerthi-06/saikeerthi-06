@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sai Keerthi Jeevangar</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h3 align="center">I'm a B.Tech IT student passionate about Java development.</h3>
 
-- 🌱 I’m currently learning **SpringBoot,Microservices**
+- 🌱 I’m passionate about Java and currently exploring the MERN Stack and Data Structures to build impactful applications.
 
 - 👨‍💻 All of my projects are available at [https://keerthi-creative-folio.lovable.app/](https://keerthi-creative-folio.lovable.app/)
 
-- 📫 How to reach me **keerthijeevangar@gmail.com**
+- 📫 How to reach me **saikeerthij92@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1udHOo_1kKu4-MVS056qi90uoa1Hbpy6e/view?usp=drivesdk](https://drive.google.com/file/d/1udHOo_1kKu4-MVS056qi90uoa1Hbpy6e/view?usp=drivesdk)
 
