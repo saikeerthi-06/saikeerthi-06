@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saikeerthi18-creative-folio.lovable.app/](https://saikeerthi18-creative-folio.lovable.app)
 
-- 📫 How to reach me **saikeerthij92@gmail.com**
+- 📫 Reach Out **saikeerthijeevangar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
