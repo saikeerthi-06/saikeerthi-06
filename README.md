@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **saikeerthij92@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1udHOo_1kKu4-MVS056qi90uoa1Hbpy6e/view?usp=drivesdk](https://drive.google.com/file/d/1udHOo_1kKu4-MVS056qi90uoa1Hbpy6e/view?usp=drivesdk)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saikeerthi jeevangar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikeerthi jeevangar" height="30" width="40" /></a>
